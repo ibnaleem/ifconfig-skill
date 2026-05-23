@@ -19,8 +19,9 @@ Sometimes you want the `User-Agent` your agent sends in its `curl` requests. Som
 3. Get the `lang` your agent sends in its `curl` requests
 4. Get the `encoding` your agent sends in its `curl` requests
 5. Get the `mime` your agent sends in its `curl` requests
-6. Get the `forwarded` your agent sends in its `curl` requests
-7. Get all headers your agent sends in its `curl` requests
+6. Get the `charset` your agent sends in its `curl` requests
+7. Get the `forwarded` your agent sends in its `curl` requests
+8. Get all headers your agent sends in its `curl` requests
 
 ## 🛡️ Security
 This skill calls an external API. Files are never modified. Nothing on your OS is touched. Nothing that you did not specifically send to the external API is ever sent.
